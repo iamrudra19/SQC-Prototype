@@ -1,0 +1,6 @@
+{
+  "name": "SQC Command Center",
+  "description": "Private command center for Super Quali Cast (INDIA) Pvt. Ltd., integrating inquiry, feasibility, quoting, ordering, CNC programming, and shipping operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
